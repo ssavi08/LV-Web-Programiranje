@@ -1,0 +1,25 @@
+table {
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+
+table tbody tr:nth-child(odd) {
+    background-color: green;
+}
+
+table tbody tr:nth-child(even) {
+    background-color: aqua;
+}
+
+p:first-of-type {
+    margin-left: 20px;
+    font-size: 1.2em;
+    color: red;
+}
+
+@media (max-width: 760px){
+    img {
+        margin-bottom: 10px;
+    }
+}
