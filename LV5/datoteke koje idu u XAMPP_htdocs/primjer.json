@@ -1,0 +1,18 @@
+[
+   {
+      "ime":"Jure",
+      "godina":60,
+      "redStudent":true,
+      "najdraziKolegiji":[
+         "Web programiranje",
+         "Algoritmi",
+         "Programiranje u Javi"
+      ]
+   },
+   {
+      "ime":"Ime",
+      "godina":19,
+      "redStudent":"fase",
+      "najdraziKolegiji ":null      
+   }
+]
