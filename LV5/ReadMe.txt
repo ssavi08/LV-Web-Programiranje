@@ -1,0 +1,1 @@
+Datoteke primjer.json i 2.html treba kopirati u htdocs u examppu i pokrenuti preko localhosta.
