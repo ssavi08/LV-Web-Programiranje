@@ -79,8 +79,8 @@
     }
 
     $kupac = new Kupac();
-    $kupac->setIme("Luka");        
-    $kupac->setPrezime("Stific");     
+    $kupac->setIme("Sandro");        
+    $kupac->setPrezime("Savi");     
     $kupac->ispisiKupca();         
 
 
