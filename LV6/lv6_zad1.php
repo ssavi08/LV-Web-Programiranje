@@ -1,8 +1,8 @@
 <?php
 
     $student = array(
-        "ime" => "Luka",          
-        "prezime" => "Stific",       
+        "ime" => "Sandro",          
+        "prezime" => "Savi",       
         "JMBG" => "1234567890123", 
         "broj_indeksa" => "12345", 
         "godina_studija" => 3      
